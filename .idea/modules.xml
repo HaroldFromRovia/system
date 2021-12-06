@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NN-system/NN-system.iml" filepath="$PROJECT_DIR$/NN-system/NN-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-sign-system/simple-sign-system.iml" filepath="$PROJECT_DIR$/simple-sign-system/simple-sign-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Теория систем.iml" filepath="$PROJECT_DIR$/Теория систем.iml" />
+    </modules>
+  </component>
+</project>

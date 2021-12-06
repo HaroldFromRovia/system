@@ -1,0 +1,272 @@
+Event 1 | Frequency = 140,00
+Event 2 | Frequency = 74,00
+Event 3 | Frequency = 26,00
+Event 4 | Frequency = 83,00
+Event 5 | Frequency = 1,00
+Event 6 | Frequency = 58,00
+Event 7 | Frequency = 118,00
+Event 8 | Frequency = 53,00
+Event 9 | Frequency = 89,00
+Event 10 | Frequency = 91,00
+Event 11 | Frequency = 168,00
+Event 12 | Frequency = 91,00
+Event 13 | Frequency = 153,00
+Event 14 | Frequency = 148,00
+Event 15 | Frequency = 157,00
+Event 16 | Frequency = 163,00
+Event 17 | Frequency = 165,00
+Event 18 | Frequency = 202,00
+Event 19 | Frequency = 277,00
+Event 20 | Frequency = 194,00
+Event 21 | Frequency = 310,00
+Event 22 | Frequency = 163,00
+Event 23 | Frequency = 168,00
+Event 24 | Frequency = 169,00
+Event 25 | Frequency = 142,00
+Event 26 | Frequency = 47,00
+Event 27 | Frequency = 297,00
+Event 28 | Frequency = 13,00
+Event 29 | Frequency = 91,00
+Event 30 | Frequency = 46,00
+Event 31 | Frequency = 105,00
+Event 32 | Frequency = 98,00
+Event 33 | Frequency = 72,00
+Event 34 | Frequency = 103,00
+Event 35 | Frequency = 125,00
+Event 36 | Frequency = 194,00
+Event 37 | Frequency = 109,00
+Event 38 | Frequency = 157,00
+Event 39 | Frequency = 167,00
+Event 40 | Frequency = 207,00
+Event 41 | Frequency = 147,00
+Event 42 | Frequency = 293,00
+Event 43 | Frequency = 247,00
+Event 44 | Frequency = 208,00
+Event 45 | Frequency = 315,00
+Event 46 | Frequency = 351,00
+Event 47 | Frequency = 230,00
+Event 48 | Frequency = 172,00
+Event 49 | Frequency = 82,00
+Event 50 | Frequency = 168,00
+Event 51 | Frequency = 52,00
+Event 52 | Frequency = 28,00
+Event 53 | Frequency = 25,00
+Event 54 | Frequency = 160,00
+Event 55 | Frequency = 43,00
+Event 56 | Frequency = 72,00
+Event 57 | Frequency = 58,00
+Event 58 | Frequency = 77,00
+Event 59 | Frequency = 121,00
+Event 60 | Frequency = 177,00
+Event 61 | Frequency = 126,00
+Event 62 | Frequency = 178,00
+Event 63 | Frequency = 200,00
+Event 64 | Frequency = 200,00
+Event 65 | Frequency = 155,00
+Event 66 | Frequency = 224,00
+Event 67 | Frequency = 270,00
+Event 68 | Frequency = 235,00
+Event 69 | Frequency = 288,00
+Event 70 | Frequency = 275,00
+Event 71 | Frequency = 240,00
+Event 72 | Frequency = 155,00
+Mean = 150,08
+Deviation = 81,69
+
+--------------------------------------------
+
+Event 1 | Frequency = 136,83
+Event 2 | Frequency = 164,96
+Event 3 | Frequency = 151,33
+Event 4 | Frequency = 178,29
+Event 5 | Frequency = 200,54
+Event 6 | Frequency = 131,13
+Event 7 | Frequency = 170,46
+Event 8 | Frequency = 146,75
+Event 9 | Frequency = 135,67
+Event 10 | Frequency = 154,75
+Event 11 | Frequency = 188,83
+Event 12 | Frequency = 222,25
+Event 13 | Frequency = 146,67
+Event 14 | Frequency = 161,21
+Event 15 | Frequency = 160,33
+Event 16 | Frequency = 158,63
+Event 17 | Frequency = 148,08
+Event 18 | Frequency = 188,21
+Event 19 | Frequency = 219,08
+Event 20 | Frequency = 149,46
+Event 21 | Frequency = 151,29
+Event 22 | Frequency = 139,67
+Event 23 | Frequency = 140,88
+Event 24 | Frequency = 139,83
+Event 25 | Frequency = 188,25
+Event 26 | Frequency = 210,92
+Event 27 | Frequency = 137,25
+Event 28 | Frequency = 145,08
+Event 29 | Frequency = 125,96
+Event 30 | Frequency = 147,54
+Mean = 161,34
+Deviation = 26,54
+
+--------------------------------------------
+
+Day: 1
+Event 1 | Frequency = 168.12
+Event 2 | Frequency = 191.29
+Event 3 | Frequency = 177.29
+Event 4 | Frequency = 194.46
+Event 5 | Frequency = 146.08
+Event 6 | Frequency = 170.37
+Event 7 | Frequency = 160.83
+Event 8 | Frequency = 151.08
+Event 9 | Frequency = 144.75
+Event 10 | Frequency = 152.29
+Event 11 | Frequency = 141.17
+Event 12 | Frequency = 123.46
+Event 13 | Frequency = 123.87
+Mean = 157.31
+Deviation = 21.67
+
+Day: 2
+Event 1 | Frequency = 169.37
+Event 2 | Frequency = 198.96
+Event 3 | Frequency = 202.46
+Event 4 | Frequency = 183.62
+Event 5 | Frequency = 136.79
+Event 6 | Frequency = 146.58
+Event 7 | Frequency = 160.29
+Event 8 | Frequency = 139.54
+Event 9 | Frequency = 125.87
+Event 10 | Frequency = 147.46
+Event 11 | Frequency = 125.92
+Event 12 | Frequency = 99.04
+Event 13 | Frequency = 110.5
+Mean: 149.72
+Deviation = 30.86
+
+Day: 3
+Event 1 | Frequency = 175.04
+Event 2 | Frequency = 180.5
+Event 3 | Frequency = 199.0
+Event 4 | Frequency = 189.25
+Event 5 | Frequency = 164.87
+Event 6 | Frequency = 135.54
+Event 7 | Frequency = 158.33
+Event 8 | Frequency = 140.71
+Event 9 | Frequency = 147.42
+Event 10 | Frequency = 141.75
+Event 11 | Frequency = 130.04
+Event 12 | Frequency = 120.58
+Event 13 | Frequency = 125.67
+Mean = 154.52
+Deviation = 24.42
+
+Day: 4
+Event 1 | Frequency = 173.67
+Event 2 | Frequency = 169.71
+Event 3 | Frequency = 195.37
+Event 4 | Frequency = 194.67
+Event 5 | Frequency = 151.12
+Event 6 | Frequency = 154.67
+Event 7 | Frequency = 147.96
+Event 8 | Frequency = 139.71
+Event 9 | Frequency = 142.17
+Event 10 | Frequency = 138.67
+Event 11 | Frequency = 138.0
+Event 12 | Frequency = 120.79
+Event 13 | Frequency = 125.42
+Mean = 153.22
+Deviation = 22.86
+
+Day: 5
+Event 1 | Frequency = 220.96
+Event 2 | Frequency = 186.29
+Event 3 | Frequency = 221.87
+Event 4 | Frequency = 206.54
+Event 5 | Frequency = 178.33
+Event 6 | Frequency = 188.67
+Event 7 | Frequency = 188.04
+Event 8 | Frequency = 188.0
+Event 9 | Frequency = 175.79
+Event 10 | Frequency = 191.0
+Event 11 | Frequency = 143.42
+Event 12 | Frequency = 136.54
+Event 13 | Frequency = 119.79
+Mean = 180.41
+Deviation = 29.57
+
+Day: 6
+Event 1 | Frequency = 191.37
+Event 2 | Frequency = 242.46
+Event 3 | Frequency = 250.5
+Event 4 | Frequency = 270.87
+Event 5 | Frequency = 230.67
+Event 6 | Frequency = 200.54
+Event 7 | Frequency = 222.04
+Event 8 | Frequency = 218.83
+Event 9 | Frequency = 210.71
+Event 10 | Frequency = 202.92
+Event 11 | Frequency = 229.54
+Event 12 | Frequency = 153.0
+Event 13 | Frequency = 164.37
+Mean = 209.51
+Deviation = 35.29
+
+Day: 7
+Event 1 | Frequency = 142.29
+Event 2 | Frequency = 177.79
+Event 3 | Frequency = 162.83
+Event 4 | Frequency = 174.87
+Event 5 | Frequency = 161.83
+Event 6 | Frequency = 131.12
+Event 7 | Frequency = 146.62
+Event 8 | Frequency = 149.37
+Event 9 | Frequency = 137.12
+Event 10 | Frequency = 129.67
+Event 11 | Frequency = 145.75
+Event 12 | Frequency = 107.46
+Event 13 | Frequency = 106.17
+Mean = 144.07
+Deviation = 21.47
+
+--------------------------------------------
+
+Event 1 | Frequency = 189,84
+Event 2 | Frequency = 191,60
+Event 3 | Frequency = 206,13
+Event 4 | Frequency = 194,60
+Event 5 | Frequency = 158,49
+Event 6 | Frequency = 166,52
+Event 7 | Frequency = 169,32
+Event 8 | Frequency = 158,33
+Event 9 | Frequency = 152,83
+Event 10 | Frequency = 163,90
+Event 11 | Frequency = 134,26
+Event 12 | Frequency = 124,58
+Event 13 | Frequency = 107,30
+Mean = 162,90
+Deviation = 28,87
+
+--------------------------------------------
+
+Event 1 | Frequency = 12,84
+Event 2 | Frequency = 23,39
+Event 3 | Frequency = 70,18
+Event 4 | Frequency = 136,75
+Event 5 | Frequency = 198,51
+Event 6 | Frequency = 161,38
+Event 7 | Frequency = 145,39
+Event 8 | Frequency = 108,56
+Event 9 | Frequency = 115,54
+Event 10 | Frequency = 139,43
+Event 11 | Frequency = 121,54
+Event 12 | Frequency = 152,62
+Event 13 | Frequency = 158,92
+Event 14 | Frequency = 196,84
+Event 15 | Frequency = 201,73
+Event 16 | Frequency = 211,35
+Event 17 | Frequency = 228,74
+Event 18 | Frequency = 105,32
+Event 19 | Frequency = 0,01
+Mean = 131,00
+Deviation = 66,78
